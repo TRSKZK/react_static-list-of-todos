@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/TodoList/TodoList.scss"],"names":[],"mappings":"AAAA,MACE,eAAA,CAEA,YACE,qBAAA,CACA,YAAA,CACA,kBAAA,CACA,eAAA","file":"main.7a169a04.chunk.css","sourcesContent":[".list {\n  list-style: none;\n\n  &__item {\n    border: 1px solid black;\n    padding: 10px;\n    margin-bottom: 10px;\n    max-width: 400px;\n  }\n}\n"]}
